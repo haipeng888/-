@@ -1,5 +1,5 @@
 {
     "version": "1.0.1",
-    "download_url": "https://github.com/username/buylucky-timesheet/releases/download/v1.0.1/buylucky-timesheet-v1.0.1.exe",
+    "download_url": "https://github.com/haipeng888/buylucky-timesheet/releases/download/v1.0.1/buylucky-timesheet-v1.0.1.exe",
     "release_notes": "新版本更新内容：\n1. 修复了无法计算工时的问题\n2. 改进了时间解析功能\n3. 添加了更详细的日志输出\n4. 优化了用户界面"
 } 
